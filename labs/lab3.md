@@ -3,6 +3,7 @@ Assignment description [here](https://raw.githubusercontent.com/ra559/cis106/mai
 
 ## Question 1
 1. Which command did you use to search for the themes and to install them?
+
 2. Which commands did you use to find and install the web browser?
 3.1 What is the name of the package?
 3.2 What dependencies are needed in order to install the package? (you can either take a screenshot of the terminal or copy and paste from the terminal)
@@ -10,7 +11,7 @@ Assignment description [here](https://raw.githubusercontent.com/ra559/cis106/mai
  
 
 ## Question 2
-
+![Question 2](../imgs/lab3q2.png)
 ## Question 3
 
 ## Question 4
