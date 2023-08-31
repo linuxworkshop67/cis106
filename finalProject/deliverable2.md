@@ -12,5 +12,3 @@ Instructor: R. Alberto
 ## Ubuntu Login Screen
 ![login](ubuntu-server-login.png)
 
-## Example Page 
-![sample page](sample%20page.png)
